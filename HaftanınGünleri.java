@@ -1,8 +1,8 @@
-package atm;
+package gun;
 
 import java.util.Scanner;
 
-public class Atm {
+public class Gun {
 
     public static void main(String[] args) {
 
